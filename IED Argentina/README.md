@@ -1,0 +1,2 @@
+Procuramos responder la problemática orientada a determinar si existe una relación entre la cantidad de sedes en el exterior que posee la Argentina en cada país y el flujo monetario neto de Inversión Extranjera Directa de ese país en nuestro país. 
+"Limpiamos" las tablas originales, eliminando la información que no ibamos a usar. Posteriormente usamos distintas herramientas de análisis de datos (GQM, Diagrama de Entidad Relación, modelo relacional, SQL)

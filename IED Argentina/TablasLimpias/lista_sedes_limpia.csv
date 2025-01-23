@@ -1,0 +1,164 @@
+sede_id,sede_desc_castellano,pais_iso_2,pais_castellano,region_geografica
+CALEG,Consulado  General  en  Porto  Alegre,BR,REPÚBLICA  FEDERATIVA  DEL  BRASIL,AMÉRICA  DEL  SUR
+CANTO,Consulado  en  Antofagasta,CL,REPÚBLICA  DE  CHILE,AMÉRICA  DEL  SUR
+CAREN,Consulado  General  en  Punta  Arenas,CL,REPÚBLICA  DE  CHILE,AMÉRICA  DEL  SUR
+CASUN,Consulado  General  en  Asunción,PY,REPÚBLICA  DEL  PARAGUAY,AMÉRICA  DEL  SUR
+CATLA,Consulado  General  en  Atlanta,US,Estados  Unidos  de  América,AMÉRICA  DEL  NORTE
+CBARC,Consulado  General  y  Centro  de  Promoción  en  Barcelona,ES,REINO  DE  ESPAÑA,EUROPA  OCCIDENTAL
+CBEIJ,Sección  Consular  en  Beijing,CN,REPÚBLICA  POPULAR  DE  CHINA,ASIA
+CBELO,Consulado  en  Belo  Horizonte,BR,REPÚBLICA  FEDERATIVA  DEL  BRASIL,AMÉRICA  DEL  SUR
+CBONN,Consulado  en  Bonn,DE,REPÚBLICA  FEDERAL  DE  ALEMANIA,EUROPA  OCCIDENTAL
+CCADI,Consulado  en  Cádiz,ES,REINO  DE  ESPAÑA,EUROPA  OCCIDENTAL
+CCEST,Consulado  General  en  Ciudad  del  Este,PY,REPÚBLICA  DEL  PARAGUAY,AMÉRICA  DEL  SUR
+CCHIC,Consulado  General  en  Chicago,US,Estados  Unidos  de  América,AMÉRICA  DEL  NORTE
+CCOCH,Consulado  en  Cochabamba,BO,ESTADO  PLURINACIONAL  DE  BOLIVIA,AMÉRICA  DEL  SUR
+CCOLO,Consulado  en  Colonia,UY,REPÚBLICA  ORIENTAL  DEL  URUGUAY,AMÉRICA  DEL  SUR
+CCURI,Consulado  en  Curitiba,BR,REPÚBLICA  FEDERATIVA  DEL  BRASIL,AMÉRICA  DEL  SUR
+CENCA,Consulado  General  en  Encarnación,PY,REPÚBLICA  DEL  PARAGUAY,AMÉRICA  DEL  SUR
+CFBEN,Consulado  en  Fray  Bentos,UY,REPÚBLICA  ORIENTAL  DEL  URUGUAY,AMÉRICA  DEL  SUR
+CFDIG,Consulado  en  Foz  de  Iguazu,BR,REPÚBLICA  FEDERATIVA  DEL  BRASIL,AMÉRICA  DEL  SUR
+CFLOR,Consulado  en  Florianopolis,BR,REPÚBLICA  FEDERATIVA  DEL  BRASIL,AMÉRICA  DEL  SUR
+CGEST,Consulado  General  y  Centro  de  Promoción  en  Estambul,TR,República  de  Türkiye,EUROPA  OCCIDENTAL
+CGMUM,Consulado  General  y  Centro  de  Promoción  en  Mumbai,IN,REPÚBLICA  DE  LA  INDIA,ASIA
+CGTEL,Consulado  General  en  Tel  Aviv,IL,ESTADO  DE  ISRAEL,ASIA
+CGUAN,Consulado  General  en  Guangzhou,CN,REPÚBLICA  POPULAR  DE  CHINA,ASIA
+CGUAY,Consulado  en  Guayaquil,EC,REPÚBLICA  DEL  ECUADOR,AMÉRICA  DEL  SUR
+CGVAN,Consulado  General  en  Vancouver,CA,CANADÁ,AMÉRICA  DEL  NORTE
+CHAMB,Consulado  General  en  Hamburgo,DE,REPÚBLICA  FEDERAL  DE  ALEMANIA,EUROPA  OCCIDENTAL
+CHONG,Consulado  General  en  Hong  Kong,CN,REPÚBLICA  POPULAR  DE  CHINA,ASIA
+CHOUS,Consulado  General  en  Houston,US,Estados  Unidos  de  América,AMÉRICA  DEL  NORTE
+CJOHA,Consulado  General  en  Johannesburgo,ZA,REPÚBLICA  DE  SUDÁFRICA,ÁFRICA  SUBSAHARIANA
+CLANG,Consulado  General  y  Centro  de  Promoción  en  Los  Ángeles,US,Estados  Unidos  de  América,AMÉRICA  DEL  NORTE
+CLIMA,Consulado  General  en  Lima,PE,REPÚBLICA  DEL  PERÚ,AMÉRICA  DEL  SUR
+CLOND,Consulado  General  en  Londres,UK,REINO  UNIDO  DE  GRAN  BRETAÑA  E  IRLANDA  DEL  NORTE,EUROPA  OCCIDENTAL
+CMADR,Consulado  General  en  Madrid,ES,REINO  DE  ESPAÑA,EUROPA  OCCIDENTAL
+CMALD,Consulado  en  Maldonado,UY,REPÚBLICA  ORIENTAL  DEL  URUGUAY,AMÉRICA  DEL  SUR
+CMALL,Consulado  en  Palma,ES,REINO  DE  ESPAÑA,EUROPA  OCCIDENTAL
+CMDEO,Consulado  General  en  Montevideo,UY,REPÚBLICA  ORIENTAL  DEL  URUGUAY,AMÉRICA  DEL  SUR
+CMEXI,Consulado  General  en  México,MX,ESTADOS  UNIDOS  MEXICANOS,AMÉRICA  DEL  NORTE
+CMIAM,Consulado  General  y  Centro  de  Promoción  en  Miami,US,Estados  Unidos  de  América,AMÉRICA  DEL  NORTE
+CMILA,Consulado  General  y  Centro  de  Promoción  en  Milán,IT,REPÚBLICA  ITALIANA,EUROPA  OCCIDENTAL
+CMREA,Consulado  General  en  Montreal,CA,CANADÁ,AMÉRICA  DEL  NORTE
+CNYOR,Consulado  General  y  Centro  de  Promoción  en  Nueva  York,US,Estados  Unidos  de  América,AMÉRICA  DEL  NORTE
+CPABL,Consulado  General  y  Centro  de  Promoción  en  San  Pablo,BR,REPÚBLICA  FEDERATIVA  DEL  BRASIL,AMÉRICA  DEL  SUR
+CPCAR,Consulado  en  Playa  del  Carmen,MX,ESTADOS  UNIDOS  MEXICANOS,AMÉRICA  DEL  NORTE
+CPMON,Consulado  en  Puerto  Montt,CL,REPÚBLICA  DE  CHILE,AMÉRICA  DEL  SUR
+CRECI,Consulado  en  Recife,BR,REPÚBLICA  FEDERATIVA  DEL  BRASIL,AMÉRICA  DEL  SUR
+CROMA,Consulado  General  en  Roma,IT,REPÚBLICA  ITALIANA,EUROPA  OCCIDENTAL
+CSBAH,Consulado  en  San  Salvador  de  Bahía,BR,REPÚBLICA  FEDERATIVA  DEL  BRASIL,AMÉRICA  DEL  SUR
+CSCRS,Consulado  General  y  Centro  de  Promoción  en  Santa  Cruz,BO,ESTADO  PLURINACIONAL  DE  BOLIVIA,AMÉRICA  DEL  SUR
+CSHAN,Consulado  General  y  Centro  de  Promoción  en  Shanghai,CN,REPÚBLICA  POPULAR  DE  CHINA,ASIA
+CSIDN,Consulado  General  en  Sidney,AU,AUSTRALIA,OCEANÍA
+CSIGO,Consulado  General  en  Santiago,CL,REPÚBLICA  DE  CHILE,AMÉRICA  DEL  SUR
+CSLTO,Consulado  en  Salto,UY,REPÚBLICA  ORIENTAL  DEL  URUGUAY,AMÉRICA  DEL  SUR
+CTARI,Consulado  General  en  Tarija,BO,ESTADO  PLURINACIONAL  DE  BOLIVIA,AMÉRICA  DEL  SUR
+CTORO,Consulado  General  en  Toronto,CA,CANADÁ,AMÉRICA  DEL  NORTE
+CVALP,Consulado  General  en  Valparaíso,CL,REPÚBLICA  DE  CHILE,AMÉRICA  DEL  SUR
+CVIGO,Consulado  General  en  Vigo,ES,REINO  DE  ESPAÑA,EUROPA  OCCIDENTAL
+CVILL,Consulado  en  Villazon,BO,ESTADO  PLURINACIONAL  DE  BOLIVIA,AMÉRICA  DEL  SUR
+CYACU,Consulado  en  Yacuiba,BO,ESTADO  PLURINACIONAL  DE  BOLIVIA,AMÉRICA  DEL  SUR
+DIGAC,Argentinos  en  el  exterior,AR,REPÚBLICA  ARGENTINA,AMÉRICA  DEL  SUR
+EALEM,Embajada  en  Alemania,DE,REPÚBLICA  FEDERAL  DE  ALEMANIA,EUROPA  OCCIDENTAL
+EANGO,Embajada  en  Angola,AO,REPÚBLICA  DE  ANGOLA,ÁFRICA  SUBSAHARIANA
+EARAB,Embajada  en  Arabia  Saudita,SA,REINO  DE  ARABIA  SAUDITA,ASIA
+EARGE,Embajada  en  Argelia,DZ,REPÚBLICA  ARGELINA  DEMOCRÁTICA  Y  POPULAR,ÁFRICA  DEL  NORTE  Y  CERCANO  ORIENTE
+EARME,Embajada  en  Armenia,AM,REPÚBLICA  DE  ARMENIA,ASIA
+EASIR,Embajada  en  Siria,SY,REPÚBLICA  ÁRABE  SIRIA,ASIA
+EAUST,Embajada  en  Australia,AU,AUSTRALIA,OCEANÍA
+EBANG,Embajada  en  Bangladesh,BD,REPÚBLICA  POPULAR  DE  BANGLADESH,ASIA
+EBARB,Embajada  en  Barbados,BB,BARBADOS,AMÉRICA  CENTRAL  Y  CARIBE
+EBOLV,Embajada  en  Bolivia,BO,ESTADO  PLURINACIONAL  DE  BOLIVIA,AMÉRICA  DEL  SUR
+EBRAS,Embajada  en  Brasil,BR,REPÚBLICA  FEDERATIVA  DEL  BRASIL,AMÉRICA  DEL  SUR
+EBULG,Embajada  en  Bulgaria,BG,REPÚBLICA  DE  BULGARIA,EUROPA  CENTRAL  Y  ORIENTAL
+ECANA,Embajada  en  Canadá,CA,CANADÁ,AMÉRICA  DEL  NORTE
+ECEUR,Embajada  ante  la  Unión  Europea,BE,Reino  de  Bélgica,EUROPA  OCCIDENTAL
+ECHES,Embajada  en  República  Checa,CZ,REPÚBLICA  CHECA,EUROPA  CENTRAL  Y  ORIENTAL
+ECHIN,Embajada  en  China,CN,REPÚBLICA  POPULAR  DE  CHINA,ASIA
+ECOLO,Embajada  en  Colombia,CO,REPÚBLICA  DE  COLOMBIA,AMÉRICA  DEL  SUR
+ECORE,Embajada  en  Corea  Del  Sur,KR,REPÚBLICA  DE  COREA,ASIA
+ECUBA,Embajada  en  Cuba,CU,REPÚBLICA  DE  CUBA,AMÉRICA  CENTRAL  Y  CARIBE
+EDINA,Embajada  en  Dinamarca,DK,REINO  DE  DINAMARCA,EUROPA  OCCIDENTAL
+EDOMI,Embajada  en  República  Dominicana,DO,REPÚBLICA  DOMINICANA,AMÉRICA  CENTRAL  Y  CARIBE
+EEARB,Embajada  en  Emiratos  Árabes  Unidos,AE,EMIRATOS  ÁRABES  UNIDOS,ASIA
+EECUA,Embajada  en  Ecuador,EC,REPÚBLICA  DEL  ECUADOR,AMÉRICA  DEL  SUR
+EEEUU,Embajada  en  Estados  Unidos,US,Estados  Unidos  de  América,AMÉRICA  DEL  NORTE
+EEGIP,Embajada  en  Egipto,EG,REPÚBLICA  ÁRABE  DE  EGIPTO,ÁFRICA  DEL  NORTE  Y  CERCANO  ORIENTE
+EEOEA,Misión  Permanente  ante  la  Organización  de  Estados  Americanos,US,Estados  Unidos  de  América,AMÉRICA  DEL  NORTE
+EESPA,Embajada  en  España,ES,REINO  DE  ESPAÑA,EUROPA  OCCIDENTAL
+EETIO,Embajada  en  Etiopía,ET,REPÚBLICA  DEMOCRÁTICA  FEDERAL  DE  ETIOPÍA,ÁFRICA  SUBSAHARIANA
+EFINL,Embajada  en  Finlandia,FI,REPÚBLICA  DE  FINLANDIA,EUROPA  OCCIDENTAL
+EFRAN,Embajada  en  Francia,FR,REPÚBLICA  FRANCESA,EUROPA  OCCIDENTAL
+EFRUS,Embajada  en  Rusia,RU,FEDERACIÓN  DE  RUSIA,EUROPA  CENTRAL  Y  ORIENTAL
+EGREC,Embajada  en  Grecia,GR,REPÚBLICA  HELÉNICA,EUROPA  OCCIDENTAL
+EGUAT,Embajada  en  Guatemala,GT,REPÚBLICA  DE  GUATEMALA,AMÉRICA  CENTRAL  Y  CARIBE
+EHAIT,Embajada  en  Haití,HT,REPÚBLICA  DE  HAITÍ,AMÉRICA  CENTRAL  Y  CARIBE
+EHILE,Embajada  en  Chile,CL,REPÚBLICA  DE  CHILE,AMÉRICA  DEL  SUR
+EHOND,Embajada  en  Honduras,HN,REPÚBLICA  DE  HONDURAS,AMÉRICA  CENTRAL  Y  CARIBE
+EINDI,Embajada  en  India,IN,REPÚBLICA  DE  LA  INDIA,ASIA
+EIRAN,Embajada  en  Irán,IR,REPÚBLICA  ISLÁMICA  DE  IRÁN,ASIA
+EIRLA,Embajada  en  Irlanda,IE,IRLANDA,EUROPA  OCCIDENTAL
+EISIA,Embajada  en  Indonesia,ID,REPÚBLICA  DE  INDONESIA,ASIA
+EISRA,Embajada  en  Israel,IL,ESTADO  DE  ISRAEL,ASIA
+EITAL,Embajada  en  Italia,IT,REPÚBLICA  ITALIANA,EUROPA  OCCIDENTAL
+EJAMA,Embajada  en  Jamaica,JM,JAMAICA,AMÉRICA  CENTRAL  Y  CARIBE
+EJAPO,Embajada  en  Japón,JP,日本国  (JAPÓN),ASIA
+EKENY,Embajada  en  Kenia,KE,REPÚBLICA  DE  KENYA,ÁFRICA  SUBSAHARIANA
+EKUWA,Embajada  en  Kuwait,KW,ESTADO  DE  KUWAIT,ASIA
+ELBIA,Embajada  en  Libia,LY,ESTADO  DE  LIBIA,ÁFRICA  DEL  NORTE  Y  CERCANO  ORIENTE
+ELBNO,Embajada  en  Líbano,LB,REPÚBLICA  LIBANESA,ASIA
+ELUCI,Embajada  en  Santa  Lucía,LC,SANTA  LUCÍA,AMÉRICA  CENTRAL  Y  CARIBE
+EMARR,Embajada  en  Marruecos,MA,REINO  DE  MARRUECOS,ÁFRICA  DEL  NORTE  Y  CERCANO  ORIENTE
+EMEXI,Embajada  en  México,MX,ESTADOS  UNIDOS  MEXICANOS,AMÉRICA  DEL  NORTE
+EMFAO,Misión  Permanente  ante  la  Organización  de  las  Naciones  Unidas  para  la  Alimentación  y  la  Agricultura,IT,REPÚBLICA  ITALIANA,EUROPA  OCCIDENTAL
+EMOZA,Embajada  en  Mozambique,MZ,REPÚBLICA  DE  MOZAMBIQUE,ÁFRICA  SUBSAHARIANA
+EMSIA,Embajada  en  Malasia,MY,MALASIA,ASIA
+EMSUR,Representación  Permanente  para  MERCOSUR  y  ALADI,UY,REPÚBLICA  ORIENTAL  DEL  URUGUAY,AMÉRICA  DEL  SUR
+ENAUN,Representación  Permanente  ante  las  Naciones  Unidas,US,Estados  Unidos  de  América,AMÉRICA  DEL  NORTE
+ENICA,Embajada  en  Nicaragua,NI,REPÚBLICA  DE  NICARAGUA,AMÉRICA  CENTRAL  Y  CARIBE
+ENIGE,Embajada  en  Nigeria,NG,REPÚBLICA  FEDERAL  DE  NIGERIA,ÁFRICA  SUBSAHARIANA
+ENORU,Embajada  en  Noruega,NO,REINO  DE  NORUEGA,EUROPA  OCCIDENTAL
+ENZEL,Embajada  en  Nueva  Zelandia,NZ,NUEVA  ZELANDIA,OCEANÍA
+EOIRS,Misión  Permanente  ante  los  Organismos  Internacionales  en  Ginebra,CH,Confederación  Suiza,EUROPA  OCCIDENTAL
+EPAKI,Embajada  en  Pakistán,PK,REPÚBLICA  ISLÁMICA  DE  PAKISTÁN,ASIA
+EPARA,Embajada  en  Paraguay,PY,REPÚBLICA  DEL  PARAGUAY,AMÉRICA  DEL  SUR
+EPBAJ,Embajada  en  Holanda,NL,REINO  DE  LOS  PAÍSES  BAJOS,EUROPA  OCCIDENTAL
+EPERU,Embajada  en  Perú,PE,REPÚBLICA  DEL  PERÚ,AMÉRICA  DEL  SUR
+EPNMA,Embajada  en  Panamá,PA,REPÚBLICA  DE  PANAMÁ,AMÉRICA  CENTRAL  Y  CARIBE
+EPOLO,Embajada  en  Polonia,PL,REPÚBLICA  DE  POLONIA,EUROPA  CENTRAL  Y  ORIENTAL
+EPORT,Embajada  en  Portugal,PT,REPÚBLICA  PORTUGUESA,EUROPA  OCCIDENTAL
+EQATR,Embajada  en  Qatar,QA,ESTADO  DE  QATAR,ASIA
+ERICA,Embajada  en  Costa  Rica,CR,REPÚBLICA  DE  COSTA  RICA,AMÉRICA  CENTRAL  Y  CARIBE
+ERUMA,Embajada  en  Rumania,RO,RUMANIA,EUROPA  CENTRAL  Y  ORIENTAL
+ERUNI,Embajada  en  Reino  Unido,UK,REINO  UNIDO  DE  GRAN  BRETAÑA  E  IRLANDA  DEL  NORTE,EUROPA  OCCIDENTAL
+ESAFR,Embajada  en  Sudáfrica,ZA,REPÚBLICA  DE  SUDÁFRICA,ÁFRICA  SUBSAHARIANA
+ESALV,Embajada  en  El  Salvador,SV,REPÚBLICA  DE  EL  SALVADOR,AMÉRICA  CENTRAL  Y  CARIBE
+ESENE,Embajada  en  Senegal,SN,REPÚBLICA  DE  SENEGAL,ÁFRICA  SUBSAHARIANA
+ESERB,Embajada  en  Serbia,RS,REPÚBLICA  DE  SERBIA,EUROPA  CENTRAL  Y  ORIENTAL
+ESING,Embajada  en  Singapur,SG,REPÚBLICA  DE  SINGAPUR,ASIA
+ESUEC,Embajada  en  Suecia,SE,REINO  DE  SUECIA,EUROPA  OCCIDENTAL
+ESUIZ,Embajada  en  Suiza,CH,Confederación  Suiza,EUROPA  OCCIDENTAL
+ESURI,Embajada  en  Surinam,SR,REPÚBLICA  DE  SURINAME,AMÉRICA  DEL  SUR
+ETAIL,Embajada  en  Tailandia,TH,REINO  DE  TAILANDIA,ASIA
+ETRIA,Embajada  en  Austria,AT,REPÚBLICA  DE  AUSTRIA,EUROPA  OCCIDENTAL
+ETRIN,Embajada  en  Trinidad  y  Tobago,TT,REPÚBLICA  DE  TRINIDAD  Y  TOBAGO,AMÉRICA  CENTRAL  Y  CARIBE
+ETUNE,Embajada  en  Túnez,TN,REPÚBLICA  TUNECINA,ÁFRICA  DEL  NORTE  Y  CERCANO  ORIENTE
+ETURQ,Embajada  en  Türkiye,TR,República  de  Türkiye,EUROPA  OCCIDENTAL
+EUCRA,Embajada  en  Ucrania,UA,UCRANIA,EUROPA  CENTRAL  Y  ORIENTAL
+EUNGR,Embajada  en  Hungría,HU,HUNGRÍA,EUROPA  CENTRAL  Y  ORIENTAL
+EVENE,Embajada  en  Venezuela,VE,REPÚBLICA  BOLIVARIANA  DE  VENEZUELA,AMÉRICA  DEL  SUR
+EVIET,Embajada  en  Vietnam,VN,REPÚBLICA  SOCIALISTA  DE  VIETNAM,ASIA
+OCCAT,Oficina  Comercial  y  Cultural  Argentina  en  Taiwán,CN,REPÚBLICA  POPULAR  DE  CHINA,ASIA
+REPAL,Oficina  de  Representación  en  el  Estado  de  Palestina,PS,ESTADO  DE  PALESTINA,ASIA
+CGPAZ,Consulado  General  en  La  Paz,BO,ESTADO  PLURINACIONAL  DE  BOLIVIA,AMÉRICA  DEL  SUR
+CRIOJ,Consulado  General  en  Rio  de  Janeiro,BR,REPÚBLICA  FEDERATIVA  DEL  BRASIL,AMÉRICA  DEL  SUR
+CTENE,Consulado  en  Tenerife,ES,REINO  DE  ESPAÑA,EUROPA  OCCIDENTAL
+CURUG,Consulado  en  Uruguayana,BR,REPÚBLICA  FEDERATIVA  DEL  BRASIL,AMÉRICA  DEL  SUR
+EAZER,Embajada  en  Azerbaiyán,AZ,REPÚBLICA  DE  AZERBAIYÁN,ASIA
+EBELG,Embajada  en  Bélgica,BE,Reino  de  Bélgica,EUROPA  OCCIDENTAL
+EFILI,Embajada  en  Filipinas,PH,REPÚBLICA  DE  FILIPINAS,ASIA
+EGUYA,Embajada  en  Guyana,GY,REPÚBLICA  COOPERATIVA  DE  GUYANA,AMÉRICA  CENTRAL  Y  CARIBE
+ESSED,Representación  ante  la  Santa  Sede,VA,SANTA  SEDE,EUROPA  OCCIDENTAL
+EUNES,"Delegación  Permanente  ante  la  Organización  de  las  Naciones  Unidas  para  la  Educación, la  Ciencia  y  la  Cultura",FR,REPÚBLICA  FRANCESA,EUROPA  OCCIDENTAL
+EURUG,Embajada  en  Uruguay,UY,REPÚBLICA  ORIENTAL  DEL  URUGUAY,AMÉRICA  DEL  SUR
+CFRAN,Consulado  General  y  Centro  de  Promoción  en  Francfort,DE,REPÚBLICA  FEDERAL  DE  ALEMANIA,EUROPA  OCCIDENTAL
+CPAYS,Consulado  en  Paysandú,UY,REPÚBLICA  ORIENTAL  DEL  URUGUAY,AMÉRICA  DEL  SUR
