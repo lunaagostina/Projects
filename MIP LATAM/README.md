@@ -1,0 +1,1 @@
+Repasamos varios conceptos de Álgebra Lineal Computacional y posteriormente realizamos un análisis de componentes principales de la matriz de insumo-producto latinoamericana.
