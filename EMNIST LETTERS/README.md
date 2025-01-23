@@ -1,0 +1,1 @@
+Trabajamos con el conjunto de datos "emnist letters", que es un conjunto de dígitos de caracteres escritos a mano derivados de una base de datos. Extraímos la información que creímos relevante y la analizamos con distintas herramientas de análisis de datos.
